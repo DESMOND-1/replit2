@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-welcome to codingal
+welcome to codinngal
 <h1>hello</h1>
 </body>
 </html>
