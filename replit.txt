@@ -1,14 +1,12 @@
 <!doctype html>
-<html>
-<head>
+<html>n
+<head>a
 </head>
 <body>
-
 welcome to codingal
 <h1>MY NAME IS DESMOND</h1>
 <ol>
 <li>DESMOND IGWE</li>
 </ol>
-
 </body>
 </html>
